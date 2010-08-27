@@ -41,12 +41,7 @@ margin-right:20px;
 }
 </style>
 <ul class="social_count">
-					<li><span class="comments"><script type="text/javascript"> 
-tweetmeme_style = 'compact';
-tweetmeme_source = 'remiz';
-tweetmeme_service = 'tr.im';
-</script> 
-<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></span></li>
+					<li><span class="comments"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="remiz">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span></li>
 <li><a title="Post on Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="small-count" data-locale="en_IN"></a>
 <script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script></li>
 <li><a name="fb_share" type="button_count" share_url="<?php the_permalink();?>"></a>
