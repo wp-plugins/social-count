@@ -3,7 +3,7 @@
 Plugin Name: Social Count
 Plugin URI: http://www.htmlremix.com/projects/social-count-wordpress-plugin
 Description: Displays number of shares or bookmarks in popular social media sites.
-Version: 1.0
+Version: 2.0
 Author: Remiz Rahnas
 Author URI: http://www.htmlremix.com
 
@@ -20,7 +20,7 @@ This program is free software: you can redistribute it and/or modify
     GNU General Public License for more details.
 
 You are allowed to use, change and redistibute without any legal issues. I am not responsible for any damage caused by this program. Use at your own risk
-Tested with Wordpress 2.9.2 only. Works normal settings
+Tested with Wordpress 3.0. Works normal settings
 You will need to put <?php social_count(); ?> in your theme file where you want to show social media share icons with count.
 */
 

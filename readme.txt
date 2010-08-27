@@ -3,8 +3,8 @@ Contributors: Rahnas
 Donate link: http://www.htmlremix.com/projects
 Tags: social media, share, twitter, tweetme, facebook, buzz, buzz this, comments, comment, comment count, tweek, Social Count
 Requires at least: 2.0.2
-Tested up to: 2.9.2
-Stable tag: 2.9
+Tested up to: 3.0.1
+Stable tag: 3.0
 
 Displays number of shares or bookmarks in popular social media sites.
 
